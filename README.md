@@ -1,2 +1,2 @@
 # trigger1
-Just a trigger.
+Just a trigger (reboot stb).
